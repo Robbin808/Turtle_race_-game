@@ -46,7 +46,8 @@ Blue
 Purple
 
 🖼️ Screenshot
-(You can include a screenshot of the race window here)
+<img width="1011" height="543" alt="Screenshot 2025-07-25 160810" src="https://github.com/user-attachments/assets/006caf17-8801-4bd9-900b-620bd7ce7a55" />
+
 
 📌 Future Ideas
 Add restart button
